@@ -22,9 +22,9 @@ public class Function
     {
         dynamic json = JsonConvert.DeserializeObject<dynamic>(input.ToString());
         
-        string state = $"{{'text':'Issue Created: {json.state}'}}";
+        string state = $"{{'text':'Issue Created: {json.issue.state}'}}";
         string payload = "";
-        
+
         if (state == "open")
         {
           payload = $"{{'text':'Issue Opened: {json.issue.html_url}'}}";
