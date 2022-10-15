@@ -22,7 +22,17 @@ public class Function
     {
         dynamic json = JsonConvert.DeserializeObject<dynamic>(input.ToString());
         
-        string payload = $"{{'text':'Issue Created: {json.issue.html_url}'}}";
+        string state = $"{{'text':'Issue Created: {json.state}'}}";
+        string payload = "";
+        
+        if (state == "open")
+        {
+          payload = $"{{'text':'Issue Opened: {json.issue.html_url}'}}";
+        }
+        else if (state == "closed") {
+          payload = $"{{'text':'Issue Closed: {json.issue.html_url}'}}";
+        }
+        
 
         var client = new HttpClient();
         var webRequest = new HttpRequestMessage(HttpMethod.Post, environment_variable)
