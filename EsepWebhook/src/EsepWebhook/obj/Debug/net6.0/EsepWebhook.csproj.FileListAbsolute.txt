@@ -1,0 +1,17 @@
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.deps.json
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.runtimeconfig.json
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.dll
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.pdb
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/Amazon.Lambda.Core.dll
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.AssemblyReference.cache
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.AssemblyInfoInputs.cache
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.AssemblyInfo.cs
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.CopyComplete
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.dll
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/refint/EsepWebhook.dll
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.pdb
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.genruntimeconfig.cache
+/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/ref/EsepWebhook.dll

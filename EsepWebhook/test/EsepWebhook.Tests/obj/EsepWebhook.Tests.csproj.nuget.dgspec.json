@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/test/EsepWebhook.Tests/EsepWebhook.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectName": "EsepWebhook",
+        "projectPath": "/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "packagesPath": "/Users/yannalin/.nuget/packages/",
+        "outputPath": "/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yannalin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.osx-x64",
+              "version": "[6.0.10, 6.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/test/EsepWebhook.Tests/EsepWebhook.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/test/EsepWebhook.Tests/EsepWebhook.Tests.csproj",
+        "projectName": "EsepWebhook.Tests",
+        "projectPath": "/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/test/EsepWebhook.Tests/EsepWebhook.Tests.csproj",
+        "packagesPath": "/Users/yannalin/.nuget/packages/",
+        "outputPath": "/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/test/EsepWebhook.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yannalin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
+                "projectPath": "/Users/yannalin/Documents/csprojects/AWS/Eventing_Assignment/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.TestUtilities": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.5.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
